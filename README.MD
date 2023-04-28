@@ -1,1 +1,1 @@
-Scraping Different Company's contact info from Google Map.
+Scraping Different Company's contact info from Google Map using Python and Selenium.
